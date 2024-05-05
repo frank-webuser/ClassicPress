@@ -159,7 +159,7 @@ First, visit your website (###SITEURL###) and check for any visible issues. Next
 
 ###SUPPORT###
 
-If your site appears broken and you can\'t access your dashboard normally, WordPress now has a special "recovery mode". This lets you safely login to your dashboard and investigate further.
+If your site appears broken and you can\'t access your dashboard normally, ClassicPress now has a special "recovery mode". This lets you safely login to your dashboard and investigate further.
 
 ###LINK###
 
